@@ -68,7 +68,7 @@ Starting use SCSS to upgrade my skills don't gonna be easy, but I'm exciting and
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@R3ptarGreen](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
 

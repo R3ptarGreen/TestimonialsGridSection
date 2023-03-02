@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Testimonials Grid Section](https://glittery-kataifi-a86707.netlify.app/)
 
 ## My process
 
@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-I'm start learning sass pre-processor and the BEM method to improve my skills
+I am starting to learn sass preprocessor and BEM method to improve my skills.
 
 ```scss
 @mixin card($bg, $color){
@@ -60,7 +60,7 @@ Perhaps I could improved it
 
 ### Continued development
 
-Start using SCSS to upgrade my skills don't gonna be easy but I'm exciting and ready to do it!!
+Starting use SCSS to upgrade my skills don't gonna be easy, but I'm exciting and ready to do it!!
 
 ### Useful resources
 
